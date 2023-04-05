@@ -12,7 +12,7 @@ Feel free to download and explore the project code, and let me know if you have 
 
 
 # Preview
-![](https://github.com/Popitus/TripUs-LoginJetpack/tree/main/app/src/main/res/raw/TripUs-Jetpack.gif)
+![](https://github.com/Popitus/TripUs-LoginJetpack/blob/main/app/src/main/res/raw/TripUs-Jetpack.gif)
 
 
 
